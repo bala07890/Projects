@@ -1,0 +1,68 @@
+
+.col1{
+    float:left;
+    width:30%;
+}
+
+
+h3{
+    color:white;
+    background-color:black;
+    font:20px sans-serif;
+    position: sticky;
+    top: 0;
+    left: 0;
+}
+
+
+
+.imgsize{
+    position: relative;
+    width: 20px;
+    height: 20px;
+}
+
+
+
+table{
+    border:1px solid blue;
+    border-collapse:collapse;
+    margin-left:0px;
+}
+
+th{
+    background:grey;
+    text-align: center;
+}
+
+th:nth-child(1){
+    width: 8%;
+}
+th:nth-child(2){
+    width: 15%;
+}
+th:nth-child(3){
+    width: 5%;
+}
+th:nth-child(4){
+    width: 5%;
+}
+
+tr:hover{
+    background :#a1a1a1;
+}
+
+
+td{
+    text-align: center;
+}
+
+
+.sign{
+    float: right;
+}
+
+a:hover{
+    background: #b1b1b2;
+}
+
